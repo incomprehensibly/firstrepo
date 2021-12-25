@@ -3,7 +3,7 @@ int main()
 {
 	float a[100];
 	int n;
-	printf("N: ");
+	printf("Number: ");
 	scanf_s("%i", &n);
 	int i;
 	for (i = 0; i < n; ++i)
